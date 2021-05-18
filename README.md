@@ -1,6 +1,7 @@
 [<img src="https://cloudsploit.com/images/logos/cloudsploit_by_aqua_A02.png" height="130">](https://cloud.aquasec.com/signup)
 
 [![Build Status](https://travis-ci.com/aquasecurity/cloudsploit.svg?branch=master)](https://travis-ci.com/aquasecurity/cloudsploit)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkenazk%2Fcloudsploit.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkenazk%2Fcloudsploit?ref=badge_shield)
 
 CloudSploit by Aqua - Cloud Security Scans
 =================
@@ -352,3 +353,7 @@ The `--remediate` flag can be used if you want to run remediation for the plugin
 Please see our [developing remediation guide](docs/writing-remediation.md) for more details.
 ## Other Notes
 For other details about the Aqua Wave SaaS product, AWS security policies, and more, [click here](docs/notes.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkenazk%2Fcloudsploit.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkenazk%2Fcloudsploit?ref=badge_large)

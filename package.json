@@ -45,7 +45,7 @@
     "argparse": "^2.0.0",
     "async": "^2.6.1",
     "aws-sdk": "^2.834.0",
-    "azure-storage": "^2.10.3",
+    "azure-storage": "^2.10.7",
     "csv-write-stream": "^2.0.0",
     "fast-safe-stringify": "^2.0.6",
     "googleapis": "^40.0.1",
